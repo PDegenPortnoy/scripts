@@ -1,0 +1,4 @@
+This repo contains a bunch of convenience scripts I've cobbled together as needed
+
+each_log.sh                 Prints the latest log entry of the supplied SVN URLS
+
